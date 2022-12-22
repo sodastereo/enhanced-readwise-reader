@@ -2,9 +2,15 @@
 
 An enhanced version of Readwise Reader UI for Arc Browser.
 
+▶︎ Darker Sidebar
+
+▶︎ Off White Icons
+
+▶︎ Easy On the Eyes
+
 ## Preview
 
-![Preview](https://user-images.githubusercontent.com/65195487/177616246-493b8710-e1b6-494b-a41b-76d0a57df2bd.png)
+![Preview](https://user-images.githubusercontent.com/65195487/209231931-0c985583-0a87-42e0-925a-b9fde5e4c2e0.png)
 
 ## Instructions
 
