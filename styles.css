@@ -1,0 +1,32 @@
+/* Variables */
+:root {
+  --icon-interactive: var(#666666);
+}
+
+/* Sidebar color */
+._content_bp7cs_58 {
+  background: #414447;
+}
+
+/* Sidebar icon colors */
+._item_bp7cs_141 svg {
+  fill: #f0f0f1 !important;
+}
+
+/* Sidebar icon colors after the Plus sign */
+._buttonDefault_65yci_21 {
+  color: #f0f0f1 !important;
+}
+
+/* Sidebar Plus icon attempt to override arc default important */
+._triggerElement_69dyg_1 te {
+    background: var(--icon-interactive) !important;
+}
+
+._button_65yci_1 _circleButton_bp7cs_83 _appDropdownButton_bp7cs_96 _triggerElement_69dyg_1  _buttonDefault_65yci_21 {
+    background: var(--icon-interactive) !important;
+}
+
+#radix-0 {
+  background: var(--icon-interactive) !important;
+}
